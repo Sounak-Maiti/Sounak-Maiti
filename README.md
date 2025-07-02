@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Sounak-Maiti
-- 👀 I’m interested in coding...
-- 🌱 I’m currently learning html css and javascript and python...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Sounak-Maiti/Sounak-Maiti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Sounak Maiti, a high school student deeply passionate about electronics, embedded systems, and Python programming. I specialize in building real-world tech projects that combine hardware and software—ranging from custom microcontroller boards to IoT automation using Arduino, ESP8266, and Python. My work often focuses on integrating sensors, designing PCBs, and developing smart control systems with platforms like Blynk. I enjoy using Python not just for automation but also for serial communication, data visualization, and interactive dashboards that bring my hardware to life. Always curious and driven, I’m constantly learning new technologies and frameworks to push the boundaries of what I can build. My repositories reflect this journey—organized, purposeful, and built for real-world use. 
+Looking forward to collaborate on minor projects. 
+Mail ID: sounakmaiti2011@gmail.com
+Discord ID: sounak_maiti_77199
